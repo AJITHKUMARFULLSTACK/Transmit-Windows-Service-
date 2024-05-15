@@ -1,0 +1,7 @@
+C:\Users\BI50649\source\repos\service\service\bin\Debug\service.exe.config
+C:\Users\BI50649\source\repos\service\service\bin\Debug\service.exe
+C:\Users\BI50649\source\repos\service\service\bin\Debug\service.pdb
+C:\Users\BI50649\source\repos\service\service\obj\Debug\service.csproj.AssemblyReference.cache
+C:\Users\BI50649\source\repos\service\service\obj\Debug\service.csproj.CoreCompileInputs.cache
+C:\Users\BI50649\source\repos\service\service\obj\Debug\service.exe
+C:\Users\BI50649\source\repos\service\service\obj\Debug\service.pdb
